@@ -16,10 +16,10 @@ Inside this repository, you'll find a diverse collection of C++ questions coveri
 
 ## Key Features
 
-- **Diverse range of C++ questions : **Covering topics such as data types, control structures, functions, classes, inheritance, templates, and more.
-- **Detailed solutions : **Every question is accompanied by a detailed solution, providing explanations and insights into the thought process behind solving the problem.
-- **Easy navigation : **Questions are organized into categories or tagged with relevant topics, making it convenient to browse and find specific types of questions.
-- **Continuous updates : **I regularly add new questions to the repository as I continue to expand my knowledge and practice in C++ programming.
-- **Open to contributions : **While this repository primarily contains questions that I have practiced, I welcome contributions from other C++ enthusiasts who would like to share their own questions and solutions.
+- **Diverse range of C++ questions:** Covering topics such as data types, control structures, functions, classes, inheritance, templates, and more.
+- **Detailed solutions:** Every question is accompanied by a detailed solution, providing explanations and insights into the thought process behind solving the problem.
+- **Easy navigation:** Questions are organized into categories or tagged with relevant topics, making it convenient to browse and find specific types of questions.
+- **Continuous updates:** I regularly add new questions to the repository as I continue to expand my knowledge and practice in C++ programming.
+- **Open to contributions:** While this repository primarily contains questions that I have practiced, I welcome contributions from other C++ enthusiasts who would like to share their own questions and solutions.
 
 Start your journey to C++ mastery today by diving into the rich array of questions available in this repository.Whether you're preparing for interviews, competitions, or simply seeking to deepen your understanding of C++, this repository is designed to support your growth as a proficient programmer. Happy coding!
