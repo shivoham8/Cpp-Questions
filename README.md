@@ -1,6 +1,6 @@
 # C++ Practice Questions Repository
 
-Welcome to the C++ Practice Questions Repository !This repository is dedicated to storing a collection of C++ questions that I have practiced.As a passionate C++ learner, I've compiled various questions covering different aspects of C++ programming to enhance my skills and understanding of the language.
+Welcome to the C++ Practice Questions Repository! This repository is dedicated to storing a collection of C++ questions that I have practiced. As a passionate C++ learner, I've compiled various questions covering different aspects of C++ programming to enhance my skills and understanding of the language.
 
 ## Overview
 
