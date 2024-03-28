@@ -23,4 +23,4 @@ Inside this repository, you'll find a diverse collection of C++ questions coveri
 - **Open to contributions:** While this repository primarily contains questions that I have practiced, I welcome contributions from other C++ enthusiasts who would like to share their own questions and solutions.
 
 ## 
-## Happy coding!
+**Happy coding!**
