@@ -22,4 +22,5 @@ Inside this repository, you'll find a diverse collection of C++ questions coveri
 - **Continuous updates:** I regularly add new questions to the repository as I continue to expand my knowledge and practice in C++ programming.
 - **Open to contributions:** While this repository primarily contains questions that I have practiced, I welcome contributions from other C++ enthusiasts who would like to share their own questions and solutions.
 
-# Happy coding!
+## 
+## Happy coding!
