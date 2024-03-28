@@ -22,4 +22,4 @@ Inside this repository, you'll find a diverse collection of C++ questions coveri
 - **Continuous updates:** I regularly add new questions to the repository as I continue to expand my knowledge and practice in C++ programming.
 - **Open to contributions:** While this repository primarily contains questions that I have practiced, I welcome contributions from other C++ enthusiasts who would like to share their own questions and solutions.
 
-Start your journey to C++ mastery today by diving into the rich array of questions available in this repository.Whether you're preparing for interviews, competitions, or simply seeking to deepen your understanding of C++, this repository is designed to support your growth as a proficient programmer. Happy coding!
+Happy coding!
