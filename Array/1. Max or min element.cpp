@@ -1,38 +1,6 @@
 #include <iostream>
 using namespace std;
 
-int max(int a, int b)
-{
-    if (a > b)
-    {
-        return a;
-    }
-    else if (b > a)
-    {
-        return b;
-    }
-    else
-    {
-        return a;
-    }
-}
-
-int min(int a, int b)
-{
-    if (a < b)
-    {
-        return a;
-    }
-    else if (b < a)
-    {
-        return b;
-    }
-    else
-    {
-        return a;
-    }
-}
-
 int main()
 {
     int n;
