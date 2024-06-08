@@ -31,7 +31,7 @@ int main()
     //     }
     // }
 
-    // 2--> Kadene's Algorithm: O(n)
+    // 2--> Kadane's Algorithm: O(n)
     int currSum = 0;
 
     for (int i = 0; i < n; i++)
